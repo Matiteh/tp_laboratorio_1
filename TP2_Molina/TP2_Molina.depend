@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1601673623 source:d:\facultad\ejercicios prog\tp2_molina\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+
+1601666617 d:\facultad\ejercicios prog\tp2_molina\arrayemployees.h
+
+1601597623 source:d:\facultad\ejercicios prog\tp2_molina\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
